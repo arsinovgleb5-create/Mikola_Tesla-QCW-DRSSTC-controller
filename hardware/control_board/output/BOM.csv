@@ -1,0 +1,17 @@
+Qty,References,Value,Footprint,Note
+3,C8 C10 C12,100n,Capacitor_SMD:C_1206_3216Metric,"SMD 1206 X7R capacitor (100n: 50 V; 1u: 16 V or more), soldered on the copper (bottom) side"
+2,C9 C11,1u,Capacitor_SMD:C_1206_3216Metric,"SMD 1206 X7R capacitor (100n: 50 V; 1u: 16 V or more), soldered on the copper (bottom) side"
+2,U1 U2,TC4420,QCW:DIP-8_W7.62mm_wide,TC4420CPA DIP-8 (DIP-8 socket optional); 1.0 mm holes
+1,A1,ESP32 DevKit 30 pin,QCW:ESP32_DevKit_30,two 1x15 female headers 2.54 mm; DOIT ESP32 DevKit V1 30-pin module (rows 25.4 mm apart); 1.2 mm holes
+1,J3,AUTO,QCW:PinHeader_1x02_wide,2.54 mm male pin header; 1.1 mm holes
+1,J4,E-STOP A,QCW:PinHeader_1x02_wide,2.54 mm male pin header; 1.1 mm holes
+1,J8,E-STOP B,QCW:PinHeader_1x02_wide,2.54 mm male pin header; 1.1 mm holes
+1,J2,FIRE,QCW:PinHeader_1x02_wide,2.54 mm male pin header; 1.1 mm holes
+2,J6 J7,TX,QCW:PinHeader_1x02_wide,2.54 mm male pin header; 1.1 mm holes
+1,J5,SCREEN,QCW:PinHeader_1x05_wide,2.54 mm male pin header; 1.1 mm holes
+1,J1,KNOBS (potentiometers),QCW:PinHeader_1x09_wide,2.54 mm male pin header; 1.1 mm holes
+4,R22 R23 R26 R27,100,QCW:R_Axial_P7.62_wide,"through-hole resistor 0.25 W, 7.62 mm pitch; 1.0 mm holes"
+4,R18 R19 R21 R25,10k,QCW:R_Axial_P7.62_wide,"through-hole resistor 0.25 W, 7.62 mm pitch; 1.0 mm holes"
+2,R20 R24,150,QCW:R_Axial_P7.62_wide,"through-hole resistor 0.25 W, 7.62 mm pitch; 1.0 mm holes"
+3,R15 R16 R17,4.7k,QCW:R_Axial_P7.62_wide,"through-hole resistor 0.25 W, 7.62 mm pitch; 1.0 mm holes"
+1,J9,+5V / GND,QCW:TerminalBlock_2_wide,"2-way screw terminal, 5.08 mm pitch; 1.6 mm holes"
